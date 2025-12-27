@@ -1,24 +1,60 @@
-# 👋 Hola, soy Santiago Hurtado
+# 👋 Hi, I'm Santiago Hurtado
 
-🎓 Estudiante de Ingeniería de Sistemas (5to semestre)  
-💻 Interesado en desarrollo de software y tecnología  
+🎓 Systems Engineering Student (5th Semester)  
+💻 Interested in Software Development and Technology  
 📍 Colombia  
 
-## 🚀 Sobre mí
-Soy estudiante de Ingeniería de Sistemas con interés en aprender y aplicar conocimientos en proyectos reales.  
-He trabajado en proyectos académicos relacionados con programación, lógica, estructuras de datos y desarrollo básico.
+---
 
-## 🛠️ Tecnologías
-- Lenguajes: Java, Python (básico), C++ (básico), Ruby (básico)
-- Web: HTML, CSS, Spingboot
-- Bases de datos: MySQL (básico)
-- Herramientas: Git, GitHub
+## 🚀 About Me
+I am a Systems Engineering student with a strong interest in learning and applying software development concepts through real-world and academic projects.
 
-## 📂 Proyectos destacados
-- 🔹 [Sistema de Empleados](link)
-- 🔹 [Client-server sales system](https://github.com/BrunoProgrammerGit/client-server-sales-system-java)
-- 🔹 [Tienda de Maquillaje](link)
+I have experience working with **object-oriented programming**, **data structures**, and **client-server applications**, mainly using **Java**, and I am continuously improving my skills through hands-on projects.
 
-## 📫 Contacto
-- Email: santiagohurtadonieto09@gmail.com
-- LinkedIn: 
+---
+
+## 🛠️ Technical Skills
+
+### Programming Languages
+- Java  
+- Python (Basic)  
+- C++ (Basic)  
+- Ruby (Basic)  
+
+### Web Development
+- HTML  
+- CSS  
+- Spring Boot (Basic)
+
+### Databases
+- MySQL (Basic)
+
+### Tools & Platforms
+- Git  
+- GitHub  
+
+---
+
+## 📂 Featured Projects
+- 🔹 **Employee Management System**  
+  Academic project focused on object-oriented programming and basic data management.  
+  🔗 [Repository link]
+
+- 🔹 **Client-Server Sales System**  
+  Java-based client-server application using sockets, multithreading, and AVL trees.  
+  🔗 https://github.com/BrunoProgrammerGit/client-server-sales-system-java
+
+- 🔹 **Sustainable Makeup Store (UI/UX & Concept Project)**  
+  Web and mobile virtual store concept focused on sustainability and young consumers.  
+  🔗 [Repository link]
+
+---
+
+## 📫 Contact
+- 📧 Email: santiagohurtadonieto09@gmail.com  
+- 💼 LinkedIn: [Add your LinkedIn URL here]
+
+---
+
+## 🎯 Career Objective
+I am currently seeking opportunities such as **internships**, **vacation jobs**, or **junior roles** where I can continue learning, contribute to real projects, and grow as a software developer.
