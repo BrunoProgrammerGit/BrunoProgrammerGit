@@ -16,7 +16,7 @@ He trabajado en proyectos académicos relacionados con programación, lógica, e
 
 ## 📂 Proyectos destacados
 - 🔹 [Sistema de Empleados](link)
-- 🔹 [Sistema de Venta de Ropa](link)
+- 🔹 [Client-server sales system](https://github.com/BrunoProgrammerGit/client-server-sales-system-java)
 - 🔹 [Tienda de Maquillaje](link)
 
 ## 📫 Contacto
