@@ -38,7 +38,7 @@ I have experience working with **object-oriented programming**, **data structure
 ## 📂 Featured Projects
 - 🔹 **Employee Management System**  
   Academic project focused on object-oriented programming and basic data management.  
-  🔗 [Repository link]
+  🔗 []
 
 - 🔹 **Client-Server Sales System**  
   Java-based client-server application using sockets, multithreading, and AVL trees.  
@@ -46,13 +46,13 @@ I have experience working with **object-oriented programming**, **data structure
 
 - 🔹 **Sustainable Makeup Store (UI/UX & Concept Project)**  
   Web and mobile virtual store concept focused on sustainability and young consumers.  
-  🔗 [Repository link]
+  🔗 []
 
 ---
 
 ## 📫 Contact
 - 📧 Email: santiagohurtadonieto09@gmail.com  
-- 💼 LinkedIn: [Add your LinkedIn URL here]
+- 💼 LinkedIn: []
 
 ---
 
