@@ -46,7 +46,7 @@ I have experience working with **object-oriented programming**, **data structure
 
 - 🔹 **Sustainable Makeup Store (UI/UX & Concept Project)**  
   Web and mobile virtual store concept focused on sustainability and young consumers.  
-  🔗 []
+  🔗 [https://github.com/BrunoProgrammerGit/makeup-store-ui-ux]
 
 ---
 
