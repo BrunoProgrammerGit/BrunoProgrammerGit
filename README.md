@@ -46,13 +46,13 @@ I have experience working with **object-oriented programming**, **data structure
 
 - 🔹 **Sustainable Makeup Store (UI/UX & Concept Project)**  
   Web and mobile virtual store concept focused on sustainability and young consumers.  
-  🔗 [https://github.com/BrunoProgrammerGit/makeup-store-ui-ux]
+  🔗 https://github.com/BrunoProgrammerGit/makeup-store-ui-ux
 
 ---
 
 ## 📫 Contact
 - 📧 Email: santiagohurtadonieto09@gmail.com  
-- 💼 LinkedIn: []
+- 💼 LinkedIn: linkedin.com/in/santiago-hurtado-nieto-996a073a1
 
 ---
 
