@@ -52,7 +52,7 @@ I have experience working with **object-oriented programming**, **data structure
 
 ## 📫 Contact
 - 📧 Email: santiagohurtadonieto09@gmail.com  
-- 💼 LinkedIn: linkedin.com/in/santiago-hurtado-nieto-996a073a1
+- 💼 LinkedIn: [linkedin.com/in/santiago-hurtado-nieto-996a073a1]
 
 ---
 
